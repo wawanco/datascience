@@ -1,6 +1,8 @@
 datascience
 ===========
 
-John Hopkins Coursera specialization
-
-Hello World!
+My learning-zone:
+* Tutorial
+* Exercises
+* Kaggle
+* etc..
