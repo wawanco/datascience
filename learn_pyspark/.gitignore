@@ -1,0 +1,4 @@
+metastore_db/
+.idea/
+*.csv
+*.zip
